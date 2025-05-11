@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yasheeb-faridi
 - I am a self taught developer.
 - 👀 I’m interested in programming and developing software.
-- I have already learned programming in C/C++ , Python and I also have knowledge of Git, Bash, Linux, SSH, MySQL, WebScraping, Selenium and NumPy.
-- 🌱 I’m currently learning Golang, NoSQL and App Development.
+- I have already learned programming in C/C++ , Python, JavaScriopt and I also have knowledge of Git, Bash, Linux, SSH, MySQL, NoSQL(Mongo DB), WebScraping, Selenium and NumPy.
+- 🌱 I’m currently learning Golang and App Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me @ "yasheebfaridi@proton.me".
 
